@@ -5,6 +5,7 @@ import { Clipboard, RefreshCw, Share2, Heart, Trash2, Edit, Plus, X, Facebook, I
 const fallbackQuotes = [
   { text: "Life is what happens when you're busy making other plans.", author: "John Lennon" },
   { text: "The way to get started is to quit talking and begin doing.", author: "Walt Disney" },
+  { text: "I pursued a career in psychology with the intention of healing others only to realize that I, too, need healing", author: "Tshireletso Mogwere" },
   { text: "Your time is limited, so don't waste it living someone else's life.", author: "Steve Jobs" },
   { text: "If life were predictable it would cease to be life, and be without flavor.", author: "Eleanor Roosevelt" },
   { text: "If you look at what you have in life, you'll always have more.", author: "Oprah Winfrey" },
